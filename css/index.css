@@ -1,8 +1,4 @@
-@font-face {
-  font-family: 'Montserrat';
-  src: url(font/Montserrat.Montserrat.tff);
-}
-
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 body {
   margin: 0;
   padding: 0;
